@@ -24,6 +24,9 @@
 	margin: 0;
 }
 
+.fs-title .fs-login {
+	margin-right: 20px;
+}
 /* Form */
 .fs-form {
 	position: relative;
