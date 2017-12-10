@@ -1,0 +1,32 @@
+AN INTERACTIVE WEB APP FOR CROWD-SOURCING QUESTIONS:
+
+	This project is an attempt to create a website that takes anonymous user input, stores it categorically, and can then further use that input to later create question papers randomly, within certain criteria. This will greatly simplify the process of creating, standardising and distributing question papers across the institutes, hence saving a lot of time for teachers and/or mentors.
+
+***************************************************************************************************************************
+
+EXAMPLE USAGE SCENARIO:
+	Year-end exams in a school. The staff are notified to prepare a set of question papers.
+	Various staff individually log onto ourwebsite. They directly start contributing questions.
+	When contributions are complete, the exam cell uses the admin-tools provided to create as many sets of question papers as required 		
+
+***************************************************************************************************************************
+
+	This website aims to be a user friendly, no-nonsense way of obtaining information. The UI is designed in such a manner so as to "get the job done" in as little time as possible, with as little effort as possible. There are a few UX elements added, for eye-candy. After all, who doesn't like a well crafted website? :)
+
+	The backend is designed to be fast and modular. It also aims to be maintained over time, hence formatting and stylistic guidelines are rigorously followed. 
+
+***************************************************************************************************************************
+
+	To achieve this, a varied set of technologies have been utilised:
+
+	FOR THE FRONT-END:
+		--HTML
+		--CSS
+		--JavaScript
+
+	FOR THE BACK-END:
+		--Flask (python3.x) 
+
+***************************************************************************************************************************
+
+	While the current implementation does not utilise any database (or query language), there is support for extending this functionality without too much difficulty.
